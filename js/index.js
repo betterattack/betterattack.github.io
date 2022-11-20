@@ -13,7 +13,7 @@ noUiSlider.create(calc, {
     start: 5e4,
     step: 1,
     connect: [!0, !1],
-    range: {min: 0, max: 300000}
+    range: {min: 0, max: 10000}
 }), calc.noUiSlider.on("update", (function () {
     val = calc.noUiSlider.get(), val = Math.round(val), calculator(val), $("#calc .calc-item-inp").val(val.toLocaleString("ru")), sum()
 })), $("#calc .calc-item-inp").keyup((function () {
