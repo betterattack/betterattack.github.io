@@ -187,7 +187,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     padding: 25px 0;
-    background-image: url(../images/auth-bg.jpg);
+    background-image: url(../images/auth-bg.webp);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
