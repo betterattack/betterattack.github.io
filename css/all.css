@@ -39,7 +39,9 @@
     content: "\f234"
 }
 
-
+.fa-user-circle:before {
+    content: "\f2bd"
+}
 
 .sr-only {
     border: 0;
