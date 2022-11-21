@@ -3133,3 +3133,8 @@ nav ul ul li a:hover {
         } 
     } 
 }
+@media screen and (max-width: 1299px) {
+    .logo {
+        overflow: visible;
+    }
+}
